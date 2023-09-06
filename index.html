@@ -12,11 +12,20 @@
 <body>
     <main>
         <section>
-            <h1>Weather Dashboard</h1>
+            <h1 class="p-3 mb-2 bg-primary text-white header" >Weather Dashboard</h1>
         </section>
-        <section>
-            <h2 class="recent-searches">Recent Searches</h2>
-            <div id="search-history"></div>
+        <section class="row align-items-center">
+            <div class="col-8">
+                <h2 class="city-search m-3">Search for a city</h2>
+                <form>
+                <div id="search-history">
+                <input type="text" class="m-3" id="city-name" placeholder="City Name">
+                </div>
+                <div class="col-3 search-button-panel">
+                    <button type="submit" class="btn btn-secondary m-3" id="search-button">Search</button>
+                </div>
+            </div>
+        </form>
         </section>
         <section>
             <div class="current-day-weather"></div>
