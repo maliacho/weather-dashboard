@@ -18,8 +18,8 @@ THEN I am presented with a 5-day forecast that displays the date, an icon repres
 WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 
-### Screenshot
-
+Screenshot
+###<img width="1334" alt="Screenshot 2023-11-04 at 10 36 15 PM" src="https://github.com/maliacho/weather-dashboard/assets/141271179/30a63665-1ead-4fb4-8e36-32f521a5a3d4">
 
 ### Technologies Used
 HTML, CSS, and JavaScript
