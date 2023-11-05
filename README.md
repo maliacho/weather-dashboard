@@ -25,3 +25,4 @@ Screenshot
 HTML, CSS, and JavaScript
 
 #### Link to Deployed Website
+https://maliacho.github.io/weather-dashboard/
